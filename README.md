@@ -1,5 +1,7 @@
 # BasketballCourtTagger
-Efficient and easy manual tagging tool to find homography transformation between a court from a basketball game to a 2d basketball court
+Efficient and easy GUI to tag and find homography transformations between courts from a basketball game to a 2d basketball court
+
+In case you want to tag different (sports) courts, replace you can easily replace the given court images with yours.
 
 <img src="example/main_screen1.JPG" width="900px">
 <img src="example/tagged_screen1.JPG" width="1200px">

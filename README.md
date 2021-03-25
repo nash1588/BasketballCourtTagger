@@ -1,8 +1,8 @@
 # BasketballCourtTagger
 Efficient and easy manual tagging tool to find homography transformation between a court from a basketball game to a 2d basketball court
 
-<img src="example/main_screen1.jpeg" width="900px">
-<img src="example/tagged_screen1.jpeg" width="1200px">
+<img src="example/main_screen1.jpg" width="900px">
+<img src="example/tagged_screen1.jpg" width="1200px">
 
 
 ## Requirements
